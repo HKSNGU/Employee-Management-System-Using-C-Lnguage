@@ -95,3 +95,10 @@ Deleting data :-
 ![Screenshot (31)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/15e19b04-af24-4ca6-831d-1a6998254b10)
 
 Checking updated data :-
+![Screenshot (32)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/869564a3-14a8-41da-93dc-e861dde85be8)
+
+Entering leave details :-
+![Screenshot (33)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/e494f05c-0956-4d69-984a-c442f6e666de)
+
+Checking leave details :-
+![Screenshot (34)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/042b4b53-e9d6-41b7-9010-1ad3f6a1457b)
