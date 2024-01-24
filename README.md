@@ -73,3 +73,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to the C community and developers who contributed to building a robust programming language.
 
 Feel free to provide feedback, report issues, or suggest improvements. Happy coding!
+
+## Overview
+
+Option section :-
+![Screenshot (26)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/094dc8b0-2970-4936-a8ee-7cdd2b262de2)
+
+Entering employee data :-
+![Screenshot (27)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/1f29f505-fd2c-4a2e-87d9-2e6632805c3c)
+
+Checking updated data :-
+![Screenshot (28)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/54a57b8d-bddb-4a22-9032-f9d5749e9e32)
+
+Modifying data :-
+![Screenshot (29)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/c06f068c-5eb9-49f4-a41a-2e183f9fa254)
+
+Checking updated data :-
+![Screenshot (30)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/13916fec-18e7-4006-97d9-f7132f8d23b8)
+
+Deleting data :-
+![Screenshot (31)](https://github.com/HKSNGU/Leave-Management-System-Using-C-Language/assets/93818810/15e19b04-af24-4ca6-831d-1a6998254b10)
+
+Checking updated data :-
